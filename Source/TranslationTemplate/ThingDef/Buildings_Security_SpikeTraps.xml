@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: pitfall trap -->
+  <PitfallTrap.label>pitfall trap</PitfallTrap.label>
+  <!-- EN: A pit dug in the ground full of spikes with fake ground cover. When the victim steps on the fake cover, the victim falls into the pit and is impaled by spikes. -->
+  <PitfallTrap.description>A pit dug in the ground full of spikes with fake ground cover. When the victim steps on the fake cover, the victim falls into the pit and is impaled by spikes.</PitfallTrap.description>
+</LanguageData>

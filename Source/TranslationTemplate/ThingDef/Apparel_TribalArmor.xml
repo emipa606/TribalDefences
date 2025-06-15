@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: tribal armor -->
+  <Apparel_TribalArmor.label>tribal armor</Apparel_TribalArmor.label>
+  <!-- EN: A tough hide coat reinforced with wood slat armor. -->
+  <Apparel_TribalArmor.description>A tough hide coat reinforced with wood slat armor.</Apparel_TribalArmor.description>
+  <!-- EN: tribal helmet -->
+  <Apparel_TribalHelmet.label>tribal helmet</Apparel_TribalHelmet.label>
+  <!-- EN: A simple wooden helmet with a wooden face visor. -->
+  <Apparel_TribalHelmet.description>A simple wooden helmet with a wooden face visor.</Apparel_TribalHelmet.description>
+</LanguageData>

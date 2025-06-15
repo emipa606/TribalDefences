@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 2753284764
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e1d6293e467e0817f668148e77baa7b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0e1d6293e467e0817f668148e77baa7b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.TribalDefences/Textures/Things/Pawn/Humanlike/Apparel/TribalArmor/TribalArmor_Female_south.png
+- Assets/Data/Mlie.TribalDefences/Textures/Things/Pawn/Humanlike/Apparel/TribalArmor/TribalArmor_Male_east.png
+- Assets/Data/Mlie.TribalDefences/Textures/Things/Building/Linked/EarthenMound/EarthenMound_Atlas.png
+- Assets/Data/Mlie.TribalDefences/Textures/Things/Pawn/Humanlike/Apparel/TribalHelmet/TribalHelmet_east.png
+- Assets/Data/Mlie.TribalDefences/Textures/Things/Building/SpikePit/SpikePitArmed.png
+- Assets/Data/Mlie.TribalDefences/Textures/Things/Pawn/Humanlike/Apparel/TribalHelmet/TribalHelmet_north.png
+- Assets/Data/Mlie.TribalDefences/Textures/Things/Pawn/Humanlike/Apparel/TribalArmor/TribalArmor_Thin_south.png
+- Assets/Data/Mlie.TribalDefences/Textures/Things/Pawn/Humanlike/Apparel/TribalArmor/TribalArmor_Hulk_south.png
+- Assets/Data/Mlie.TribalDefences/Textures/Things/Pawn/Humanlike/Apparel/TribalArmor/TribalArmor_Male_south.png
+- Assets/Data/Mlie.TribalDefences/Textures/Things/Pawn/Humanlike/Apparel/TribalArmor/TribalArmor_Fat_north.png
+- Assets/Data/Mlie.TribalDefences/Textures/Things/Pawn/Humanlike/Apparel/TribalHelmet/TribalHelmet_south.png
+- Assets/Data/Mlie.TribalDefences/Textures/Things/Pawn/Humanlike/Apparel/TribalArmor/TribalArmor_Thin_east.png
+- Assets/Data/Mlie.TribalDefences/Textures/Things/Pawn/Humanlike/Apparel/TribalArmor/TribalArmor_Male_southm.png
+- Assets/Data/Mlie.TribalDefences/Textures/Things/Pawn/Humanlike/Apparel/TribalHelmet/TribalHelmet.png
+- Assets/Data/Mlie.TribalDefences/Textures/Things/Pawn/Humanlike/Apparel/TribalArmor/TribalArmor_Thin_north.png
+- Assets/Data/Mlie.TribalDefences/Textures/Things/Pawn/Humanlike/Apparel/TribalArmor/TribalArmor_Fat_south.png
+- Assets/Data/Mlie.TribalDefences/Textures/Things/Building/Linked/EarthenMound/EarthenMound_MenuIcon.png
+- Assets/Data/Mlie.TribalDefences/Textures/Things/Pawn/Humanlike/Apparel/TribalArmor/TribalArmor_Male_eastm.png
+- Assets/Data/Mlie.TribalDefences/Textures/Things/Pawn/Humanlike/Apparel/TribalArmor/TribalArmor_Fat_east.png
+- Assets/Data/Mlie.TribalDefences/Textures/Things/Pawn/Humanlike/Apparel/TribalArmor/TribalArmor_Male_northm.png
+- Assets/Data/Mlie.TribalDefences/Textures/Things/Building/SpikePit/SpikePitUnarmed.png
+- Assets/Data/Mlie.TribalDefences/Textures/Things/Pawn/Humanlike/Apparel/TribalArmor/TribalArmor_Hulk_north.png
+- Assets/Data/Mlie.TribalDefences/Textures/Things/Pawn/Humanlike/Apparel/TribalArmor/TribalArmor_Hulk_east.png
+- Assets/Data/Mlie.TribalDefences/Textures/Things/Pawn/Humanlike/Apparel/TribalArmor/TribalArmor_Female_north.png
+- Assets/Data/Mlie.TribalDefences/Textures/Things/Pawn/Humanlike/Apparel/TribalArmor/TribalArmor_Female_east.png
+- Assets/Data/Mlie.TribalDefences/Textures/Things/Pawn/Humanlike/Apparel/TribalArmor/TribalArmor.png
+- Assets/Data/Mlie.TribalDefences/Textures/Things/Pawn/Humanlike/Apparel/TribalArmor/TribalArmor_Male_north.png
+- Assets/Data/Mlie.TribalDefences/Textures/Things/Pawn/Humanlike/Apparel/TribalArmor/TribalArmorm.png
+Dependencies: []

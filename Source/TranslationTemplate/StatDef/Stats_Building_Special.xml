@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: trap spring chance colonist -->
+  <TrapSpringChanceColonist.label>trap spring chance colonist</TrapSpringChanceColonist.label>
+  <!-- EN: The likelihood that the trap will spring when an unaware creature passes over it. -->
+  <TrapSpringChanceColonist.description>The likelihood that the trap will spring when an unaware creature passes over it.</TrapSpringChanceColonist.description>
+  <!-- EN: trap spring chance enemy -->
+  <TrapSpringChanceEnemy.label>trap spring chance enemy</TrapSpringChanceEnemy.label>
+  <!-- EN: The likelihood that the trap will spring when an unaware creature passes over it. -->
+  <TrapSpringChanceEnemy.description>The likelihood that the trap will spring when an unaware creature passes over it.</TrapSpringChanceEnemy.description>
+</LanguageData>

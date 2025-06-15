@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make great bow -->
+  <MakeGreatBow.label>make great bow</MakeGreatBow.label>
+  <!-- EN: Make a great bow. -->
+  <MakeGreatBow.description>Make a great bow.</MakeGreatBow.description>
+  <!-- EN: Making great bow. -->
+  <MakeGreatBow.jobString>Making great bow.</MakeGreatBow.jobString>
+  <!-- EN: make pila -->
+  <MakePila.label>make pila</MakePila.label>
+  <!-- EN: Make a pila. -->
+  <MakePila.description>Make a pila.</MakePila.description>
+  <!-- EN: Making pila. -->
+  <MakePila.jobString>Making pila.</MakePila.jobString>
+  <!-- EN: make spear -->
+  <MakeTribalSpear.label>make spear</MakeTribalSpear.label>
+  <!-- EN: Make spear. -->
+  <MakeTribalSpear.description>Make spear.</MakeTribalSpear.description>
+  <!-- EN: Making spear. -->
+  <MakeTribalSpear.jobString>Making spear.</MakeTribalSpear.jobString>
+</LanguageData>
